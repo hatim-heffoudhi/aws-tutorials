@@ -9,7 +9,7 @@ Example of CLI ue case
 aws translate translate-text \
  --region eu-west-2 \
  --source-language-code "en" \
- --target-language-code "in" \
+ --target-language-code "fr" \
  --text "hello! my name is Hatim"
  ```
 

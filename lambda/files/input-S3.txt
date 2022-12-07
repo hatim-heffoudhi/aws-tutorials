@@ -1,3 +1,5 @@
 hello ! this is first line
 this is second line
 hello Great Team today on architecting on AWS
+Day 2
+Cloud watch logs test
